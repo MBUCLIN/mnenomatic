@@ -14,8 +14,8 @@
 
 ### Version 0.1 - Early development 
 
+ - Map useful packages and try them.                                           | OK 
  - Make packages contextual usage tests.                                       | 
- - Map useful packages and try them.                                           | 
  - Display general help for usage and documentation at start-up.               | 
  - Structurize user input interpreter processes and data.                      | 
  - Read user input.                                                            | 

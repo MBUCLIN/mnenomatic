@@ -1,0 +1,4 @@
+*.swp
+*.test
+*.txt
+./mnenomatic/go/src/libraries
